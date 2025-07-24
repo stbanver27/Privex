@@ -45,13 +45,6 @@ npx expo start
 
 4. Escanea el QR con la app **Expo Go** desde tu celular.
 
----
-
-## 🖼️ Mockup de diseño
-
-> Diseño realizado en Figma. Incluye splash screen, login, chat efímero y ajustes.
-
-*(Puedes insertar aquí una imagen si la subes a GitHub)*
 
 ---
 
