@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "privex-app",
-    "slug": "privex-app",
+    "name": "privex",
+    "slug": "privex",
     "version": "1.0.0",
     "platforms": ["ios", "android"],
     "orientation": "portrait",
